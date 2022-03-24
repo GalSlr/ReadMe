@@ -1,2 +1,3 @@
-# ReadMe
-Introducing
+- Hi my name is Galina.
+- I'm interested in QA, Programming, C # and JS
+- I'm currently learning Manual QA and C # Fundamentals.
